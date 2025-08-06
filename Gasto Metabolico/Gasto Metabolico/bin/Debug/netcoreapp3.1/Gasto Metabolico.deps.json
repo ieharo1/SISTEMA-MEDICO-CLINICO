@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gasto Metabolico/1.0.0": {
+        "runtime": {
+          "Gasto Metabolico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gasto Metabolico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
