@@ -1,28 +1,41 @@
-# Codigos-pa-futuro
+# 💾 Códigos para Futuro
 
-Proyecto C# con códigos y ejemplos para futuros proyectos.
+Proyecto C# con códigos y ejemplos para futuros proyectos desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Colección de código C# con ejemplos, plantillas y soluciones reutilizables para futuros desarrollos.
 
-## Características
+---
+
+## ✨ Características
 
 - Ejemplos de código reutilizable
 - Plantillas de proyectos
 - Soluciones comunes a problemas frecuentes
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - C# .NET Framework
 - Windows Forms
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
