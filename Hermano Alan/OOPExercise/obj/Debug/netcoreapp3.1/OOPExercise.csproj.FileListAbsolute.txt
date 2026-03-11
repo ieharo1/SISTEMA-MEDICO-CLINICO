@@ -1,0 +1,39 @@
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.exe
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.deps.json
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.runtimeconfig.json
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.runtimeconfig.dev.json
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.dll
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.pdb
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.csprojAssemblyReference.cache
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.AssemblyInfoInputs.cache
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.AssemblyInfo.cs
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.csproj.CoreCompileInputs.cache
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.dll
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.pdb
+C:\Users\ddurango\OneDrive - Visonex, LLC\Coding Dojo\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.genruntimeconfig.cache
+D:\Descargas\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.exe
+D:\Descargas\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.deps.json
+D:\Descargas\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.runtimeconfig.json
+D:\Descargas\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.runtimeconfig.dev.json
+D:\Descargas\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.dll
+D:\Descargas\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.pdb
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.csprojAssemblyReference.cache
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.AssemblyInfoInputs.cache
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.AssemblyInfo.cs
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.csproj.CoreCompileInputs.cache
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.dll
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.pdb
+D:\Descargas\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.genruntimeconfig.cache
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.exe
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.deps.json
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.runtimeconfig.json
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.runtimeconfig.dev.json
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.dll
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\bin\Debug\netcoreapp3.1\OOPExercise.pdb
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.csprojAssemblyReference.cache
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.AssemblyInfoInputs.cache
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.AssemblyInfo.cs
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.csproj.CoreCompileInputs.cache
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.dll
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.pdb
+C:\Users\jakes\OneDrive - Pontificia Universidad Católica del Ecuador\Escritorio\OOPExercise\OOPExercise\obj\Debug\netcoreapp3.1\OOPExercise.genruntimeconfig.cache

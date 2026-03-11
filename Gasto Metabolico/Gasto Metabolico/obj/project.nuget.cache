@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NBBJmEGyqhcDvS9RSR03VB6xzpZaLxX4Rn5DMcUmXlYldJvrutCvQUTgSzi8VVTHQHikzDdPBalvf0V4H1AkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakes\\source\\repos\\Gasto Metabolico\\Gasto Metabolico\\Gasto Metabolico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
